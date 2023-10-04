@@ -3,7 +3,8 @@ import hola as h
 h.holi()
 
 def hola():
-	return 2
+
+	return "Hola Hacktoberfest!!"
 
 hola()
 hola()
