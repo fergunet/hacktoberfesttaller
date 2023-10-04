@@ -4,3 +4,5 @@ h.holi()
 
 def hola():
 	return 1
+
+hola()
